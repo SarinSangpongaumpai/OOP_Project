@@ -25,7 +25,7 @@ public class FuncTree {
     	this.height = (int)(Math.random()*(MAX_LEVEL-MIN_LEVEL)+ MIN_LEVEL);
     }
 <<<<<<< HEAD
-    // random height of tree and set function in each node of tree
+    // random height of tree and set the function in each node of tree
 =======
     
 >>>>>>> parent of 6e3c8b9... FuncTree comment update
