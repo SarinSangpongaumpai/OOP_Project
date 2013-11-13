@@ -1,9 +1,9 @@
 public class FuncNode {
-        private String expr;  //expression
+        private String expr; //expression
         private FuncNode leafNode;
         private Function func; //function
-        private final int NUMBER_FUNCTION = 2;  //SIN and COS
-        private final int NUMBER_VARIABLE  = 2;  // x and y
+        private final int NUMBER_FUNCTION = 2; //SIN and COS
+        private final int NUMBER_VARIABLE  = 2; // x and y
         private int random;
   
 public FuncNode(FuncNode leafNode) {
