@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ <<<<<< HEAD
  // this class will construct tree function that will use to generate art picture
 public class FuncTree {
 	public  final int MAX_LEVEL = 8;
