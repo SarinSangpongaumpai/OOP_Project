@@ -41,7 +41,7 @@ public double calculate(double x, double y) {
                 }
         }
        
-// return string of expression
+ // return string of expression
         public String funcToString() {
                 if (this.leafNode != null) {
                         return   this.expr +"*"+ this.leafNode.funcToString() + ")";
